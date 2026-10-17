@@ -30,7 +30,7 @@ You do not need to install .NET separately with current releases.
 ## 💻 System Requirements
 
 - Windows 10 or Windows 11 (64-bit)
-- Internet connection for online features
+- Internet connection
 
 ## 🔄 Automatic Updates
 
